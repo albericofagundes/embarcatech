@@ -1,0 +1,28 @@
+# Arquivos gerados pela compilação
+*.o
+*.out
+*.exe
+
+# Diretórios comuns para builds
+/build/
+Debug/
+Release/
+
+# Arquivos temporários do editor/IDE
+*.swp
+*~
+*.log
+*.bak
+*.tmp
+*.dmp
+
+# Arquivos gerados por IDEs
+.vscode/
+.idea/
+*.code-workspace
+*.cbp
+Makefile
+
+# Outros arquivos indesejados
+.DS_Store
+Thumbs.db
